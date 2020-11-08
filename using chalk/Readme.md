@@ -1,5 +1,7 @@
 must use the following installtations:
+<br>
 npm init
-npm install chalk
-npm install validator
+<br>
+npm install chalk<br>
+npm install validator<br>
 npm install -g nodemon
